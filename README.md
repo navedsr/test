@@ -14,7 +14,7 @@ This document.
     ```
 - Navigate into directory:
     ```
-    $ cd navedsr/webstatus
+    $ cd webstatus
     ```
 - Give execution rights to script:
     ```
